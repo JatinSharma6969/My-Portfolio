@@ -18,4 +18,3 @@ This repository holds the code for my personal portfolio website, built with a s
 - JavaScript
 - Bootstrap
 
-**Ready to explore my work? Dive into the code and see my web development expertise in action!**
